@@ -5,6 +5,7 @@ This application works with props, defaultProps, state, and simple click events 
 This application also includes smoke and snapshot tests for the __Card__ and __Carousel__ components
 
 Check out the application at: 
+https://dlmedeiro.github.io/React-State-Carousel/
 
 ### `npm start`
 
